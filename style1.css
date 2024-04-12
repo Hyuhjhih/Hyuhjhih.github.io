@@ -26,3 +26,8 @@ body {
     background: linear-gradient(to bottom right, black, darkgrey);
     padding: 10px;
   }
+  img {
+  height: 300px;
+  width: 300px;
+  border: 2px solid black;
+  }
