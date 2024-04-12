@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to bottom right, deepgreen, silver);
+    font-family: cursive;
+    font-size: medium;
+  }
+  h1, h2, h3, h4 {
+    background: linear-gradient(to bottom right, deepblue, silver);
+    color: gold;
+    border: 2px solid gold;
+    padding: 10px;
+  }
+  p {
+    background: linear-gradient(to bottom right, deepblue, silver);
+    border: 2px solid gold;
+    padding: 10px;
+  }
+  p.new {
+    background: linear-gradient(to bottom right, deepblue, silver);
+    border: 2px solid gold;
+    padding: 10px;
+  }
+  .1, .2, .3, .4, .5 {
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    background: linear-gradient(to bottom right, black, darkgrey);
+    padding: 10px;
+  }
