@@ -1,1 +1,3 @@
 #to add ads
+
+google.com, pub-1436360745161580, DIRECT, f08c47fec0942fa0
